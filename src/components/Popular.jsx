@@ -27,9 +27,6 @@ function Popular() {
       console.log(data);
       setPopular(data.recipes)
     }
-
-
-
   }
 
 
